@@ -1,0 +1,15 @@
+.input {
+  display: flex;
+  background-color: rgb(85, 85, 85);
+  color: white;
+  width: minmax(200px, 1fr);
+  height: 50px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.button {
+  background-color: rgb(36, 35, 35);
+  color: white;
+  margin-left: 20px;
+}
